@@ -1,0 +1,11 @@
+.awspublish-barchart-examples
+.awspublish-docs.barchart.com
+
+.idea
+.serverless
+.webpack
+
+yarn-debug.log*
+yarn-error.log*
+
+node_modules
